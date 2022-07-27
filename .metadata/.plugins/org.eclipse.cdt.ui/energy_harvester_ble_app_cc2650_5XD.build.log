@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project energy_harvester_ble_app_cc2650_5XD ****
+
+"C:\\ti\\ccsv8\\utils\\bin\\gmake" -j -k -j 8 all -O 
+ 
+gmake[1]: 'energy_harvester_ble_app_cc2650_5XD.out' is up to date.
+
+**** Build Finished ****
