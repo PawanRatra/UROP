@@ -16,8 +16,8 @@ firebaseConfig = {
 
 cred_obj = firebase_admin.credentials.Certificate('ServiceAccountKey.json')
 default_app = firebase_admin.initialize_app(cred_obj, {
-	"databaseURL":"https://fyp-anemometer-default-rtdb.firebaseio.com",
-  "storageBucket": "fyp-anemometer.appspot.com"
+	"databaseURL":"https://bletestproject-default-rtdb.europe-west1.firebasedatabase.app/",
+  "storageBucket": "bletestproject.appspot.com"
 	})
 
 #Initial setting of data
